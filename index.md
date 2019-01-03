@@ -26,7 +26,9 @@ I really enjoy sharing knowledge, beeing a part-time professor or helping other 
 Personal Projects
 -------------------------
 
-* [Apuntes IIC2233](https://github.com/Mahund/ApuntesIIC2233): 
+* Summary of  IIC2233: Advanced Programming 
+  - [repository](https://github.com/Mahund/ApuntesIIC2233):
+  - [website](https://mahund.github.io/ApuntesIIC2233/)
 
 Other interests
 -------------------------
