@@ -1,4 +1,4 @@
-Who am i?
+About
 -------------------------
 
 My name is Michael Hund. I'm a Computer Science student at Pontifical Catholic University of Chile.
