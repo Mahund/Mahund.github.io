@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+instagram_username: michael_hz
 name: Michael's website
 title: Michael Hund
 author: Michael Hund
@@ -10,3 +11,7 @@ footer-links:
   github: Mahund
   instagram: michael_hz
   email: mahund@uc.cl
+  
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
