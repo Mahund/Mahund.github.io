@@ -1,17 +1,14 @@
 theme: minima
-instagram_username: michael_hz
-name: Michael's website
-title: Michael Hund
-author: Michael Hund
-author_email: mahund@uc.cl
+title: Title
+github_username:  Mahund
+linkedin_username: michael-hund-96432b104
+telegram_username: mahund
+name: Name
+author: Autor
+author_email: Autor mail
+email: Email
 description: Computer Science student.
-logo: https://avatars1.githubusercontent.com/u/20783050?s=460&v=4
-
-footer-links:
-  github: Mahund
-  instagram: michael_hz
-  email: mahund@uc.cl
-  
+logo: https://avatars1.githubusercontent.com/u/20783050?s=460&v=4  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
