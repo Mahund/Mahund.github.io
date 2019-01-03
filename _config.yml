@@ -8,7 +8,4 @@ author: Autor
 author_email: Autor mail
 email: Email
 description: Computer Science student.
-logo: https://avatars1.githubusercontent.com/u/20783050?s=460&v=4  
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+logo: https://avatars1.githubusercontent.com/u/20783050?s=460&v=4
