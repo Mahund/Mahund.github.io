@@ -1,11 +1,11 @@
 # My Website
 
-About
+Who am i?
 -------------------------
 
-As you might have noticed, my name is Michael Hund. I'm a Computer Science student at Pontifical Catholic University of Chile.
+My name is Michael Hund. I'm a Computer Science student at Pontifical Catholic University of Chile.
 
-Some courses I have taken
+Some courses I've taken
 -------------------------
 
 * Linear Algebra.
@@ -18,9 +18,7 @@ Some courses I have taken
 TAs
 -------------------------
 
-I really enjoy sharing knowledge, specially with people who are not yet
-aware of how computers can make their lives a lot easier. That's why I've been
-a TA since 2015.
+I really enjoy sharing knowledge, beeing a part-time professor or helping other people.
 
 * **Introduction to Programming** (2016-2): This course pretends to
   show the basics of Programming in Python.
@@ -35,3 +33,4 @@ Other interests
 
 * **Photography**: [here](https://www.instagram.com/michael_hz)
 * **Games**: I love to play PC games like CSGO and LOL.
+* **Music**: I love to play guitar and listen to good music. [here](https://open.spotify.com/user/spotify/playlist/37i9dQZF1EjqN0XXY7lbKu?si=_GqEjaQwQBO8bzwmtsM2Lg)
