@@ -25,6 +25,8 @@ I really enjoy sharing knowledge, beeing a part-time professor or helping other 
 
 * **Introduction to Programming** (2016-2): This course pretends to
   show the basics of Programming in Python.
+* **Advanced Programming** (2019-1): This course pretends to
+  show advanced skills of Programming in Python as Threading, Networking, POO and APIs.
   
 Personal Projects
 -------------------------
