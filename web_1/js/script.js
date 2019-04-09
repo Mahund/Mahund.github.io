@@ -1,18 +1,20 @@
 // Estoy en carpeta del index!
 
 // Crear mapa
-var mymap = L.map('mapid').setView([-33.4377968, -70.6504451], 14);
-
+var mymap = L.map('mapid').setView([-33.4377968, -70.6504451], 11);
+var markers = L.markerClusterGroup();
 // Leer archivo y poblar mapa
 d3.csv('./dataset/data-iic1005-2019.csv').then(dataset => {
 
     dataset.forEach(robo => {
         var text = robo.marca + " " + robo.modelo;
         // acciones dentro del for
-        L.marker([robo.lat, robo.lng]).addTo(mymap)
-            .bindPopup(text);
+        // L.marker([robo.lat, robo.lng]).addTo(mymap)
+        //     .bindPopup(text);
+        markers.addLayer(L.marker([robo.lat, robo.lng]).bindPopup(text));
     });
-    console.log(dataset);
+    // console.log(dataset);
+    mymap.addLayer(markers);
     // acciones fuera del for
 });
 
