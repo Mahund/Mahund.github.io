@@ -33,7 +33,7 @@ Personal Projects
 
 * [Summary of  IIC2233: Advanced Programming](https://mahund.github.io/ApuntesIIC2233/)
 
-* [Display of car theft](./web_1/index.html)
+* [Display of car theft: HTML, CSS and Javascrypt](./web_1/index.html)
 
 Other interests
 -------------------------
