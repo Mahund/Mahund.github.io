@@ -1,11 +1,18 @@
+/*CSS*/
+
+/*Titulos de tamaño variable*/
 h1 {
     font-size: 2vw;
 }
 h3 {
     font-size: 1vw;
+
+/*Centrados con padding pequeño*/
 }
 .header {
   text-align: center;
   padding: 2px;
+  
+/*Altura del mapa*/
 }
 #mapid { height: 280px; }

@@ -1,24 +1,19 @@
-// Estoy en carpeta del index!
+// Script poblador del mapa
 
-// Crear mapa
+// Crear mapa y marcadores
 var mymap = L.map('mapid').setView([-33.4377968, -70.6504451], 11);
 var markers = L.markerClusterGroup();
-// Leer archivo y poblar mapa
-d3.csv('./dataset/data-iic1005-2019.csv').then(dataset => {
 
+// Leer archivo y puebla los marcadores
+d3.csv('./dataset/data-iic1005-2019.csv').then(dataset => {
     dataset.forEach(robo => {
         var text = robo.marca + " " + robo.modelo;
-        // acciones dentro del for
-        // L.marker([robo.lat, robo.lng]).addTo(mymap)
-        //     .bindPopup(text);
         markers.addLayer(L.marker([robo.lat, robo.lng]).bindPopup(text));
     });
-    // console.log(dataset);
     mymap.addLayer(markers);
-    // acciones fuera del for
 });
 
-// Desplegar mapa
+// Desplegar mapa con marcadores
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Mapa de autos robados',
     maxZoom: 18,
