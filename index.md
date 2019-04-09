@@ -31,9 +31,9 @@ I really enjoy sharing knowledge, beeing a part-time professor or helping other 
 Personal Projects
 -------------------------
 
-* [Summary of  IIC2233: Advanced Programming](https://mahund.github.io/ApuntesIIC2233/)
+* [Summary of  IIC2233: Advanced Programming](https://mahund.github.io/ApuntesIIC2233/).
 
-* [Display of car theft: HTML, CSS and Javascrypt](./web_1/index.html)
+* [Display of car theft: HTML, CSS and Javascrypt](./web_1/index.html).
 
 Other interests
 -------------------------
