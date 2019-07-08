@@ -16,7 +16,9 @@ Some courses I've taken
 * Multivariable Calculus
 * Astronomy
 * Information Systems
-* Advanced Programming
+* Advanced Programming (Python)
+* Software Engineering (RoR)
+* Databases
 
 TAs
 -------------------------
@@ -31,11 +33,11 @@ I really enjoy sharing knowledge, beeing a part-time professor or helping other 
 Personal Projects
 -------------------------
 
-* [Summary of  IIC2233: Advanced Programming](https://mahund.github.io/ApuntesIIC2233/)
+* [Summary of  IIC2233 Advanced Programming: Python](https://mahund.github.io/ApuntesIIC2233/)
 
 * [Display of car theft: HTML, CSS and Javascrypt](./web_1/index.html)
 
-* [Study room organizer](http://grupos-estudio.herokuapp.com)
+* [Study room organizer: Ruby on Rails](http://grupos-estudio.herokuapp.com)
 
 Other interests
 -------------------------
