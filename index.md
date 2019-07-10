@@ -39,7 +39,7 @@ Personal Projects
 
 * [Study room organizer: Ruby on Rails](http://grupos-estudio.herokuapp.com)
 
-* [Messages API: MongoDB and PHP(https://github.com/Mahund/Messages-API)
+* [Messages API: MongoDB and PHP](https://github.com/Mahund/Messages-API)
 
 Other interests
 -------------------------
