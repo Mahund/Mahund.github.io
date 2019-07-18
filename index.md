@@ -1,7 +1,11 @@
-About
+Welcome
 -------------------------
 
 My name is Michael Hund. I'm a Computer Science student at Pontifical Catholic University of Chile.
+
+Curriculum Vitae
+-------------------------
+You can download [here](./CV_2.pdf) my CV.
 
 Some courses I've taken
 -------------------------
